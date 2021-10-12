@@ -1,4 +1,4 @@
-# AOC-Hackathon
+# AOC-Hackathon 👩‍💻👩‍💻
 the project files of a messenger i used to win a hackathon
 
 # NOTICE 🚨
